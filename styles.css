@@ -1,0 +1,72 @@
+* {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+   font-size: 20px;
+}
+
+h1 {
+   text-align: center;
+}
+
+h2 {
+   font-weight: 400;
+}
+
+h3 {
+   font-weight: 100;
+}
+
+.materials {
+   font-size: 20px;
+}
+
+.recipes, .ingredients, .steps {
+   font-size: 24px;
+}
+
+/****************** Bibimbap *******************/
+.bibimbapbg {
+   background-color: rgb(154, 205, 50);
+}
+
+.bibimbapbg img {
+   border: 10px solid #daa520;
+   text-align: center;
+}
+
+.bibimbapbg .title {
+   color: #ff3c1a;
+}
+/***********************************************/
+
+/******************* Bulgogi *******************/
+.bulgogibg {
+   background-color: rgb(139, 69, 19);
+   color: #fff5ee;
+}
+
+.bulgogibg img {
+   border: 10px solid #1a1a1a;
+}
+
+.bulgogibg .title {
+   color: #4d0000;
+}
+/************************************************/
+
+/************** Korean Fried Chicken ************/
+.kfcbg {
+   background-color: rgb(235, 45, 83);
+   color: #fff5ee;
+}
+
+.kfcbg img {
+   border: 10px solid #f0ffff;
+}
+
+.kfcbg .title {
+   color: #ffaf4d;
+}
+/************************************************/
